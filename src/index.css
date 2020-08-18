@@ -30,7 +30,7 @@
   color: rgb(3, 71, 148) !important; 
 }
 
-@media (max-width: 991px){
+@media (max-width: 291px){
   .navbar-brand {
     font-size: 1.5rem;
   }
